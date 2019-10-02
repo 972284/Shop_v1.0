@@ -1,6 +1,7 @@
 Shop_v1.0
 
 Python libraries:
+
 amqp==1.4.9
 anyjson==0.3.3
 Babel==2.7.0
